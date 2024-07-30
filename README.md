@@ -1,6 +1,6 @@
 ### **Bem vindo ao meu perfil** 🐵
 
-Meu Nome é Gabriel
+-Meu Nome é Gabriel
 
 -Estou estudando na Alura
 
